@@ -1,0 +1,21 @@
+# ninja log v7
+1	17	1778085847755006855	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	494b5d6b5acb3219
+1	17	1778085847755006855	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	494b5d6b5acb3219
+17	1478	1778085849215703310	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	32744e37bb84260
+17	1478	1778085849215703310	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	32744e37bb84260
+1478	1495	1778085849233190922	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	85b64543ae7a1d79
+1478	1495	1778085849233190922	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	85b64543ae7a1d79
+1495	1511	1778085849248570045	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	52ea28341848565f
+1495	1511	1778085849248570045	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	52ea28341848565f
+1511	1526	1778085849264485707	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	d81f59d33c8ac825
+1511	1526	1778085849264485707	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	d81f59d33c8ac825
+1526	1571	1778085849309077876	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	30822de34d33a206
+1526	1571	1778085849309077876	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	30822de34d33a206
+1571	1587	1778085849324817289	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cafb8b557f72bac6
+1571	1587	1778085849324817289	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	cafb8b557f72bac6
+1587	1629	1778085849367473553	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	63fbdf106afbd0e9
+1587	1629	1778085849367473553	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	63fbdf106afbd0e9
+1630	1650	1778085849387605692	CMakeFiles/glm-populate-complete	400bfcfe9e1b64ce
+1630	1650	1778085849387605692	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	400bfcfe9e1b64ce
+1630	1650	1778085849387605692	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	400bfcfe9e1b64ce
+1630	1650	1778085849387605692	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	400bfcfe9e1b64ce

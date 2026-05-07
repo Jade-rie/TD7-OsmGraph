@@ -1,0 +1,21 @@
+# ninja log v7
+0	16	1778085852802294162	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	b564df7187ec664
+0	16	1778085852802294162	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	b564df7187ec664
+16	12055	1778085864841261053	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	86254fac2854b4eb
+16	12055	1778085864841261053	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	86254fac2854b4eb
+12055	12071	1778085864857135798	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	1dbfb63ad321dfae
+12055	12071	1778085864857135798	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	1dbfb63ad321dfae
+12071	12086	1778085864872304048	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	d13b2e556fc710f1
+12071	12086	1778085864872304048	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	d13b2e556fc710f1
+12086	12101	1778085864887238673	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	59dccff0a6a15d00
+12086	12101	1778085864887238673	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	59dccff0a6a15d00
+12101	12116	1778085864901915259	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	7ce11f902d98da0e
+12101	12116	1778085864901915259	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	7ce11f902d98da0e
+12116	12138	1778085864923727763	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	c710a07f21b4e87d
+12116	12138	1778085864923727763	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	c710a07f21b4e87d
+12138	12182	1778085864960463060	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	cbd794e76315a9fb
+12138	12182	1778085864960463060	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	cbd794e76315a9fb
+12182	12212	1778085864997573937	CMakeFiles/raylib-populate-complete	b3e411ad66c2e602
+12182	12212	1778085864997573937	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b3e411ad66c2e602
+12182	12212	1778085864997573937	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	b3e411ad66c2e602
+12182	12212	1778085864997573937	/Users/mac/TDprog/C++/S2/osmGraph2/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	b3e411ad66c2e602
